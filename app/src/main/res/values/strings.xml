@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CodePathDemoW6</string>
+    <string name="activity_main_btn_label">BUTTON</string>
 </resources>
