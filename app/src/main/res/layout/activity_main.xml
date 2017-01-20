@@ -17,4 +17,20 @@
         android:text="@string/activity_main_btn_label"
         android:textColor="@android:color/white"
         android:textSize="@dimen/default_font_size" />
+
+    <Button
+        style="@style/Widget.Button.Custom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:text="@string/activity_main_btn_label"
+        android:visibility="gone" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/layer_list_button"
+        android:visibility="gone" />
 </RelativeLayout>
