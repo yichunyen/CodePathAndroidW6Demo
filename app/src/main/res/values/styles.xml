@@ -11,9 +11,9 @@
 
     <style name="Widget.Button.Custom" parent="@android:style/Widget.Button">
         <item name="android:gravity">center_vertical|center_horizontal</item>
-        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textColor">@android:color/holo_orange_dark</item>
         <item name="android:background">@drawable/selector_btn_state</item>
-        <item name="android:textSize">@dimen/default_font_size</item>
+        <item name="android:textSize">@dimen/large_font_size</item>
         <item name="android:padding">@dimen/activity_vertical_margin</item>
     </style>
 </resources>
